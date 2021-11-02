@@ -1,9 +1,9 @@
 # Alex Houseago
 
 I'm a full-stack developer at Sparx working with
-- React
 - TypeScript / JavaScript
 - Go
+- React
 - PostgreSQL
 - Kubernetes
 
